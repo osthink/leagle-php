@@ -5,7 +5,7 @@ class Leagle
     {
         $this->route();
         $this->dispatch();
-        echo "hello leagle!";
+        echo "2018，hello leagle!";
     }
 
     public function route()
